@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AXReachability_Example' do
+  pod 'AXReachability', :path => '../'
+
+  target 'AXReachability_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
