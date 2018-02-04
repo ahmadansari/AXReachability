@@ -28,5 +28,5 @@ pod 'AXReachability'
 
 ## License
 
-AXNetworkManager is available under the MIT license. See the LICENSE file for more info.
+AXReachability is available under the MIT license. See the LICENSE file for more info.
 
