@@ -7,12 +7,17 @@
 //
 
 #import "AXAppDelegate.h"
+#import <AXReachability/AXReachability.h>
 
 @implementation AXAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    //Start Network Monitoring
+    [[AXReachability sharedReachability] startMonitoring];
+    
     return YES;
 }
 
@@ -41,6 +46,9 @@
 - (void)applicationWillTerminate:(UIApplication *)application
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+    
+    //Stop Network Monintoring
+    [[AXReachability sharedReachability] stopMonintoring];
 }
 
 @end

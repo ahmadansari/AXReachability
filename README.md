@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/AXReachability.svg?style=flat)](http://cocoapods.org/pods/AXReachability)
 [![Platform](https://img.shields.io/cocoapods/p/AXReachability.svg?style=flat)](http://cocoapods.org/pods/AXReachability)
 
+Network Manager for iOS to keep track of internet connectivity state
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,8 +24,9 @@ pod 'AXReachability'
 
 ## Author
 
-ansari.ahmad@gmail.com, ansari.ansari@gmail.com
+* **Ahmad Ansari** - (https://github.com/ahmadansari)
 
 ## License
 
-AXReachability is available under the MIT license. See the LICENSE file for more info.
+AXNetworkManager is available under the MIT license. See the LICENSE file for more info.
+

@@ -1,0 +1,6 @@
+framework module AXReachability {
+  umbrella header "AXReachability-umbrella.h"
+
+  export *
+  module * { export * }
+}
