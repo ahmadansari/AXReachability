@@ -1,18 +1,18 @@
 {
   "name": "AXReachability",
   "version": "0.1.0",
-  "summary": "A short description of AXReachability.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/ansari.ahmad@gmail.com/AXReachability",
+  "summary": "Network Reachability Manager for iOS",
+  "description": "Network Reachability Manager for iOS to keep track of internet connectivity state",
+  "homepage": "https://github.com/ahmadansari/AXReachability",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "ansari.ahmad@gmail.com": "ansari.ansari@gmail.com"
+    "Ahmad Ansari": "ansari.ansari@gmail.com"
   },
   "source": {
-    "git": "https://github.com/ansari.ahmad@gmail.com/AXReachability.git",
+    "git": "https://github.com/ahmadansari/AXReachability.git",
     "tag": "0.1.0"
   },
   "platforms": {
