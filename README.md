@@ -1,6 +1,6 @@
 # AXReachability
 
-[![CI Status](http://img.shields.io/travis/ansari.ahmad@gmail.com/AXReachability.svg?style=flat)](https://travis-ci.org/ansari.ahmad@gmail.com/AXReachability)
+[![CI Status](http://img.shields.io/travis/ahmadansari/AXReachability.svg?style=flat)](https://travis-ci.org/ahmadansari/AXReachability)
 [![Version](https://img.shields.io/cocoapods/v/AXReachability.svg?style=flat)](http://cocoapods.org/pods/AXReachability)
 [![License](https://img.shields.io/cocoapods/l/AXReachability.svg?style=flat)](http://cocoapods.org/pods/AXReachability)
 [![Platform](https://img.shields.io/cocoapods/p/AXReachability.svg?style=flat)](http://cocoapods.org/pods/AXReachability)
